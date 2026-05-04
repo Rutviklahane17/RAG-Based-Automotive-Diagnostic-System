@@ -1,0 +1,35 @@
+Coolant temperature above 100°C indicates overheating risk | Source: Engine Safety Guide
+
+Fuel trim above 10% indicates lean air-fuel mixture | Source: Engine Diagnostics Guide
+
+Normal engine temperature range is 80–95°C | Source: Automotive Handbook
+
+System too lean caused by vacuum leak or faulty MAF sensor | Source: OBD-II Guide
+
+High RPM above 5000 increases engine stress | Source: Engine Performance Guide
+
+Unstable RPM at idle indicates possible air intake issues | Source: Engine Diagnostics Guide
+
+Low coolant level reduces engine cooling efficiency | Source: Vehicle Maintenance Manual
+
+Continuous overheating can lead to engine damage | Source: Engine Safety Spec
+
+If engine temperature exceeds 100°C and coolant level is low, this indicates an overheating condition. Recommended action: inspect the cooling system and refill coolant.
+
+If engine RPM is high while vehicle speed is low, this indicates engine stress or inefficient operation. Recommended action: check transmission system or load conditions.
+
+If there is a sudden spike in sensor readings without a consistent trend, this may indicate a sensor malfunction rather than a real system failure.
+
+If all sensor values remain stable within normal operating ranges, the system is functioning normally and no action is required.
+
+If engine temperature is gradually increasing while coolant level is decreasing, this indicates a potential cooling system failure developing over time.
+
+If temperature shows a steady upward trend over time, it may indicate an early-stage fault even if threshold values are not yet exceeded.
+
+If sensor readings show inconsistent or fluctuating values without a clear pattern, this may indicate unstable system behavior or faulty measurements.
+
+If both RPM and temperature are high for an extended period, this indicates sustained high load on the engine and increased wear risk.
+
+If coolant level drops below a safe threshold while temperature is still within normal limits, this may indicate a potential risk of future overheating. Recommended action: refill coolant and inspect for leaks.
+
+If multiple sensor values show abnormal behavior simultaneously without a clear known pattern, this may indicate a complex system fault. Recommended action: perform a comprehensive system diagnostic.
